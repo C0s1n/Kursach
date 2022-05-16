@@ -6,7 +6,7 @@ using ReactiveUI;
 using System.Reactive.Linq;
 using Kotin_Curs.Models;
 
-namespace Kotin_Curs.ViewModels
+namespace c0s_Curs.ViewModels
 {
     public class MainWindowViewModel : ViewModelBase
     {
@@ -47,9 +47,9 @@ namespace Kotin_Curs.ViewModels
         {
             Tab = new ObservableCollection<Tabs>();
             Tab.Add(new Tabs("racer",false));
-            Tab.Add(new Tabs("Çàïðîñ 1", true));
-            Tab.Add(new Tabs("Çàïðîñ 2", true));
-            Tab.Add(new Tabs("Çàïðîñ 3", true));
+            Tab.Add(new Tabs("Ã‡Ã Ã¯Ã°Ã®Ã± 1", true));
+            Tab.Add(new Tabs("Ã‡Ã Ã¯Ã°Ã®Ã± 2", true));
+            Tab.Add(new Tabs("Ã‡Ã Ã¯Ã°Ã®Ã± 3", true));
 
         }
 
@@ -63,9 +63,9 @@ namespace Kotin_Curs.ViewModels
         private void CreateRequests()
         {
             Request = new ObservableCollection<Tabs>();
-            Request.Add(new Tabs("Çàïðîñ 1", true));
-            Request.Add(new Tabs("Çàïðîñ 2", true));
-            Request.Add(new Tabs("Çàïðîñ 3", true));
+            Request.Add(new Tabs("Ã‡Ã Ã¯Ã°Ã®Ã± 1", true));
+            Request.Add(new Tabs("Ã‡Ã Ã¯Ã°Ã®Ã± 2", true));
+            Request.Add(new Tabs("Ã‡Ã Ã¯Ã°Ã®Ã± 3", true));
         }
 
         ObservableCollection<Grids> grid;
