@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kotin_Curs.Models
+namespace c0s_Curs.Models
 {
     public class Grids
     {
