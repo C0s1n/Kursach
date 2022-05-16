@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace Kotin_Curs.Views
+namespace c0s_Curs.Views
 {
     public partial class MainWindow : Window
     {
