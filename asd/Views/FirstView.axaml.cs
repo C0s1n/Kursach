@@ -2,7 +2,7 @@ using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 
-namespace Kotin_Curs.Views
+namespace c0s_Curs.Views
 {
     public partial class FirstView : UserControl
     {
