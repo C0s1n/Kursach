@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
 		Width="1200" Height="600"
-        x:Class="Kotin_Curs.Views.MainWindow"
+        x:Class="c0s_Curs.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
-        Title="Kotin_Curs"
+        Title="c0s_Curs"
 	    Content="{Binding Content}">
 
     <Design.DataContext>
