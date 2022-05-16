@@ -2,7 +2,7 @@ using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 
-namespace Kotin_Curs.Views
+namespace C0s_Curs.Views
 {
     public partial class SecondView : UserControl
     {
